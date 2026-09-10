@@ -1,0 +1,29 @@
+# Shuleni
+> Report card software for primary and secondary schools in Uganda.
+
+Shuleni is a buy-once-use-forever, completely offline desktop application running on Windows 10 or later. It helps schools enter student marks, calculate results, view marksheets, and generate beautiful report cards. The software fully complies with the New Lower Secondary Curriculum report card guidelines in Uganda.
+
+## Key Features
+- Completely Offline: Runs entirely without an internet connection once installed on a school computer.
+- Single Registration: Register a student once and their profile automatically populates across the whole system with auto-capitalization features.
+- Easy Marks Entry: Easy subject navigation using Enter, Arrow Down, or Tab keys, allowing teachers to enter marks quickly.
+- Marksheet View: Allows administration to view class-wide exam results and immediately detect missing student grades.
+- Smart Comments Management: Provides dropdown menus for class teachers and headteachers to prevent monotonous or inconsistent report comments.
+- Backup and Restore: Export student records to csv and Import from csv later or transfer to another PC.
+- Report Card Generation: Generate and Print hundreds of report cards at once. Generate entire class report cards to PDF.
+- Multiple Report Card Formats: Print report cards in multiple formats as per the needs and preference of your school.
+
+
+## Pricing & Details
+- One-time Fee: UGX 200,000 (No monthly or termly subscription fees).
+- Location: 21 Sir Apollo Kaggwa Road, Kampala, Uganda.
+- Contact Phone: 0755 120 413
+- Email: shuleni78@gmail.com
+
+## Secondary Links
+- [Shuleni Homepage](https://shuleni.net/): View features, pricing structures, and contact details.
+- [Shuleni for Primary Schools](https://shuleni.net/primary-school-report-card.html): View features for Shuleni for Primary schools.
+- [Shuleni for Secondary Schools](https://shuleni.net/report-card-for-secondary-school-v1.html): Features for Shuleni for secondary schools v1.
+- [About Shuleni](https://shuleni.net/about.html): Learn more about what Shuleni does.
+- [Contact Shuleni](https://shuleni.net/contact.html): View Shuleni contact details.
+- [Shuleni Pricing](https://shuleni.net/pricing.html): Learn more about Shuleni pricing.
