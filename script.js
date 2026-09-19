@@ -20,7 +20,7 @@ if(contactForm){
     const name = document.querySelector('#name')?.value || '';
     const school = document.querySelector('#school')?.value || '';
     const msg = document.querySelector('#message')?.value || '';
-    const text = encodeURIComponent(`Hello SENA, my name is ${name}. School: ${school}. ${msg}`);
+    const text = encodeURIComponent(`Hello SHULENI, my name is ${name}. School: ${school}. ${msg}`);
     window.location.href = `https://wa.me/256755120413?text=${text}`;
   });
 }
